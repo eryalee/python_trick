@@ -1,6 +1,6 @@
 #coding:gbk
 #!/usr/bin/python
-#使用dict实现switch
+#switch implied using dict
 from __future__ import division
 
 x = 2
