@@ -1,6 +1,8 @@
 #!/usr/bin/python
 
 #Warning: python version >= 2.5 using with..as statement
+#After with statements the file handle will close automatically.
+#This is important for realtime or high-performance server.
 
 def filter(txt, oldfile, newfile):
     '''
