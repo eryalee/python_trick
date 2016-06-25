@@ -14,6 +14,3 @@ print repr(str1)
 
 print struct.calcsize("iic")
 print struct.calcsize("4i")
-
-if __name__ == '__main__':
-    print 'hello'
