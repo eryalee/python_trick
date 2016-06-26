@@ -11,6 +11,7 @@ urls = (
     '/origin', 'origin'
     #'/(.*)/', 'redirect',
 )
+
 import sys
 print sys.getdefaultencoding()
 class index:
