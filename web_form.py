@@ -55,3 +55,4 @@ if __name__ == '__main__':
     #app.run(Log)
     #run as console
     app.run()
+    app.stop()
