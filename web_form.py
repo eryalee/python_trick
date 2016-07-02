@@ -56,3 +56,5 @@ if __name__ == '__main__':
     #run as console
     app.run()
     app.stop()
+    app.setUp()
+    app.tearDown()
